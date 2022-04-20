@@ -1,3 +1,4 @@
+//Queria saber, porque eu consigo digitar aqui
 package br.unicap.ed2.arvore;
 
 public class MainAVL {
